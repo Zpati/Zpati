@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0D14,50:00F5FF,100:8B5CF6&height=250&section=header&text=Zpati&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=🇹🇷%20Turkey&descAlignY=68&descSize=20&descColor=00F5FF&animation=fadeIn&stroke=00F5FF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0D14,50:00F5FF,100:8B5CF6&height=250&section=header&text=Zpati&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=🇹🇷%20Turkey&descAlignY=68&descSize=20&descColor=00F5FF&animation=fadeIn&stroke=00F5FF&strokeWidth=2" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=AI-Powered+Idea+Engineer+%F0%9F%A7%A0;VRChat+Tool+Builder+%F0%9F%A5%BD;Turning+ideas+into+reality+%E2%9C%A8;%22Bir+fikrim+var%22+%E2%86%92+shipped+%F0%9F%9A%80)](https://github.com/Zpati)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=AI-Powered+Idea+Engineer+%F0%9F%A7%A0;VRChat+Tool+Builder+%F0%9F%A5%BD;Turning+wild+ideas+into+tools+%E2%9C%A8;%22Bir+fikrim+var%22+%E2%86%92+shipped+%F0%9F%9A%80)](https://github.com/Zpati)
 
 <br/>
 
@@ -20,10 +20,10 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   Ben kod yazmayı değil, fikir üretmeyi iyi yaparım.            ║
-║   AI bu ikisini birleştirmeme yardımcı oluyor.                  ║
+║   Ben kod yazmayı değil, fikir üretmeyi iyi yaparım.             ║
+║   AI bu ikisini birleştirmeme yardımcı oluyor.                   ║
 ║                                                                  ║
-║   Sonuç?  Çalışan araçlar. Gerçek projeler. Sıfır mazeret.      ║
+║   Sonuç?  Çalışan araçlar. Gerçek projeler. Sıfır mazeret.       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -34,35 +34,39 @@
 
 ## 🧠 Hakkımda
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ```yaml
-isim     : Zpati
-konum    : Türkiye 🇹🇷
-rol      : AI Idea Engineer
-ilgi     : VRChat · AI Tools · Oyun
-diller   : Türkçe · English
-çalışma  : Fikir → AI → Gerçek ürün
-motto    : "Bir fikrim var."
-iş_birliği: Her zaman açığım 🤝
+isim        : Zpati
+konum       : Türkiye 🇹🇷
+rol         : AI Idea Engineer
+ilgi        : VRChat · AI Tools · Oyun
+diller      : Türkçe · English
+çalışma_tarzı: Fikir → AI → Gerçek ürün
+motto       : "Bir fikrim var."
+iş_birliği  : Her zaman açığım 🤝
 ```
-
-<br clear="right"/>
 
 ---
 
 ## 🚀 Öne Çıkan Proje
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td>
 
-<a href="https://github.com/Zpati/EchoBridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zpati&repo=EchoBridge&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=00F5FF&icon_color=8B5CF6&text_color=ffffff&description_lines_count=3" />
-</a>
+### 🌐 [EchoBridge](https://github.com/Zpati/EchoBridge) — Real-time AI Voice Translator for VRChat
+> **VRChat'te dil bariyerini ortadan kaldır.**  
+> Mikrofona konuş → Ses anında tanınsın → AI hedef dile çevirsin → VRChat Chatbox'ında otomatik yayınlansın!  
+> Çift yönlü: Kendi sesin avatarına + Karşı tarafın sesi ekrana.
 
-> 🌐 **EchoBridge** — VRChat'te dil bariyerini yık.  
-> Mikrofona konuş → AI çevir → VRChat'te görünsün. Gerçek zamanlı.
+- ⚡ **Durum:** v2.5 Yayında (Bağımsız EXE · Python Gerektirmez)
+- 🛠️ **Teknolojiler:** Python, VRChat OSC Protocol, CustomTkinter CyberHUD, Deep Translator
 
-</div>
+[![Release](https://img.shields.io/badge/Release-v2.5_Download-FF6B35?style=for-the-badge&logo=github)](https://github.com/Zpati/EchoBridge/releases)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-EchoBridge-00F5FF?style=for-the-badge&logo=github)](https://github.com/Zpati/EchoBridge)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,17 +74,17 @@ iş_birliği: Her zaman açığım 🤝
 
 <div align="center">
 
-**AI & Tools**  
+#### AI & Geliştirme Araçları
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0A0D14?style=for-the-badge&logo=openai&logoColor=00F5FF)
 ![Gemini](https://img.shields.io/badge/Gemini-0A0D14?style=for-the-badge&logo=google&logoColor=8B5CF6)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0A0D14?style=for-the-badge&logo=github&logoColor=ffffff)
 
-**Platform & Code**  
+#### Platform & Diller
 ![Python](https://img.shields.io/badge/Python-0A0D14?style=for-the-badge&logo=python&logoColor=00F5FF)
 ![Windows](https://img.shields.io/badge/Windows_11-0A0D14?style=for-the-badge&logo=windows&logoColor=00F5FF)
 ![VSCode](https://img.shields.io/badge/VS_Code-0A0D14?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6)
 
-**VR & Gaming**  
+#### VR & Oyun
 ![VRChat](https://img.shields.io/badge/VRChat-0A0D14?style=for-the-badge&logo=vrchat&logoColor=00F5FF)
 ![Steam](https://img.shields.io/badge/Steam-0A0D14?style=for-the-badge&logo=steam&logoColor=ffffff)
 
@@ -88,20 +92,11 @@ iş_birliği: Her zaman açığım 🤝
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Aktivitesi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Zpati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=00F5FF&icon_color=8B5CF6&text_color=ffffff&rank_icon=github&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zpati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0D14&title_color=00F5FF&text_color=ffffff&langs_count=6" />
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zpati&theme=tokyonight&hide_border=true&background=0A0D14&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&sideLabels=8B5CF6)](https://github.com/Zpati)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zpati&bg_color=0A0D14&color=00F5FF&line=8B5CF6&point=ffffff&area=true&hide_border=true)](https://github.com/Zpati)
 
 </div>
 
@@ -115,10 +110,10 @@ iş_birliği: Her zaman açığım 🤝
 
 <br/>
 
-*💡 This project was our original idea. AI was used as a development assistant during the coding process.*
+*💡 Bu projeler bizim orijinal fikrimizdir. Kodlama sürecinde AI yardımcı olarak kullanılmıştır.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00F5FF,100:0A0D14&height=130&section=footer&text=Bir%20fikrim%20var%20→%20shipped%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:00F5FF,100:0A0D14&height=130&section=footer&text=Bir%20fikrim%20var%20→%20shipped%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
